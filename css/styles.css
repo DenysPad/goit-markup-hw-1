@@ -1,0 +1,396 @@
+.web1 {position: absolute;
+    width: 145px;
+    height: 31px;
+    left: 215px;
+    top: 24px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    /* identical to box height */
+
+    letter-spacing: 0.03em;
+
+    color: #2196F3;}
+  .header-list1 { position: absolute;
+    width: 49px;
+    height: 16px;
+    left: 453px;
+    top: 32px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #2196F3;}
+    .header-list2 {position: absolute;
+        width: 77px;
+        height: 16px;
+        left: 552px;
+        top: 32px;
+    
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: 0.02em;
+    
+        color: #212121;}
+        .header-list3 {position: absolute;
+            width: 68px;
+            height: 16px;
+            left: 679px;
+            top: 32px;
+        
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 16px;
+            letter-spacing: 0.02em;
+        
+            color: #212121;}
+            .studio {position: absolute;
+                width: 135px;
+                height: 16px;
+                left: 1078px;
+                top: 32px;
+            
+                font-family: 'Roboto';
+                font-style: normal;
+                font-weight: 500;
+                font-size: 14px;
+                line-height: 16px;
+                letter-spacing: 0.02em;
+            
+                color: #2196F3;}
+                .teltel {position: absolute;
+                    width: 122px;
+                    height: 16px;
+                    left: 1263px;
+                    top: 32px;
+                
+                    font-family: 'Roboto';
+                    font-style: normal;
+                    font-weight: 500;
+                    font-size: 14px;
+                    line-height: 16px;
+                    letter-spacing: 0.02em;
+                
+                    color: #757575;}
+                    .general {position: absolute;
+                        width: 696px;
+                        height: 120px;
+                        left: 452px;
+                        top: 280px;
+                    
+                        font-family: 'Roboto';
+                        font-style: normal;
+                        font-weight: 900;
+                        font-size: 44px;
+                        line-height: 60px;
+                        /* or 136% */
+                    
+                        text-align: center;
+                        letter-spacing: 0.06em;
+                        text-transform: uppercase;
+                    
+                        color: #FFFFFF;}
+                        .btn {position: absolute;
+                            width: 200px;
+                            height: 50px;
+                            left: 700px;
+                            top: 430px;
+                        
+                            background: #2196F3;
+                            box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+                            border-radius: 4px;}
+                            .general2 {position: absolute;
+                                width: 270px;
+                                height: 16px;
+                                left: 215px;
+                                top: 774px;
+                            
+                                font-family: 'Roboto';
+                                font-style: normal;
+                                font-weight: 700;
+                                font-size: 14px;
+                                line-height: 16px;
+                                letter-spacing: 0.03em;
+                                text-transform: uppercase;
+                            
+                                color: #212121;}
+                                .text1 {position: absolute;
+                                    width: 270px;
+                                    height: 75px;
+                                    left: 215px;
+                                    top: 800px;
+                                
+                                    font-family: 'Roboto';
+                                    font-style: normal;
+                                    font-weight: 400;
+                                    font-size: 14px;
+                                    line-height: 24px;
+                                    /* or 171% */
+                                
+                                    letter-spacing: 0.03em;
+                                
+                                    color: #757575;}
+                                    .general3 {position: absolute;
+                                        width: 270px;
+                                        height: 16px;
+                                        left: 515px;
+                                        top: 774px;
+                                    
+                                        font-family: 'Roboto';
+                                        font-style: normal;
+                                        font-weight: 700;
+                                        font-size: 14px;
+                                        line-height: 16px;
+                                        letter-spacing: 0.03em;
+                                        text-transform: uppercase;
+                                    
+                                        color: #212121;}
+                                        .text2 {position: absolute;
+                                            width: 270px;
+                                            height: 75px;
+                                            left: 515px;
+                                            top: 800px;
+                                        
+                                            font-family: 'Roboto';
+                                            font-style: normal;
+                                            font-weight: 400;
+                                            font-size: 14px;
+                                            line-height: 24px;
+                                            /* or 171% */
+                                        
+                                            letter-spacing: 0.03em;
+                                        
+                                            color: #757575;}
+                                            .general4 {position: absolute;
+                                                width: 270px;
+                                                height: 16px;
+                                                left: 815px;
+                                                top: 774px;
+                                            
+                                                font-family: 'Roboto';
+                                                font-style: normal;
+                                                font-weight: 700;
+                                                font-size: 14px;
+                                                line-height: 16px;
+                                                letter-spacing: 0.03em;
+                                                text-transform: uppercase;
+                                            
+                                                color: #212121;}
+                                             .text3 {position: absolute;
+                                                width: 270px;
+                                                height: 75px;
+                                                left: 815px;
+                                                top: 800px;
+                                            
+                                                font-family: 'Roboto';
+                                                font-style: normal;
+                                                font-weight: 400;
+                                                font-size: 14px;
+                                                line-height: 24px;
+                                                /* or 171% */
+                                            
+                                                letter-spacing: 0.03em;
+                                            
+                                                color: #757575;}
+                                             .general35 {position: absolute;
+                                                width: 270px;
+                                                height: 16px;
+                                                left: 1115px;
+                                                top: 774px;
+                                            
+                                                font-family: 'Roboto';
+                                                font-style: normal;
+                                                font-weight: 700;
+                                                font-size: 14px;
+                                                line-height: 16px;
+                                                letter-spacing: 0.03em;
+                                                text-transform: uppercase;
+                                            
+                                                color: #212121;}
+                                                .text4 {position: absolute;
+                                                    width: 270px;
+                                                    height: 75px;
+                                                    left: 1115px;
+                                                    top: 800px;
+                                                
+                                                    font-family: 'Roboto';
+                                                    font-style: normal;
+                                                    font-weight: 400;
+                                                    font-size: 14px;
+                                                    line-height: 24px;
+                                                    /* or 171% */
+                                                
+                                                    letter-spacing: 0.03em;
+                                                
+                                                    color: #757575;}
+                                                    .about {position: absolute;
+                                                        width: 376px;
+                                                        height: 42px;
+                                                        left: 612px;
+                                                        top: 969px;
+                                                    
+                                                        font-family: 'Roboto';
+                                                        font-style: normal;
+                                                        font-weight: 700;
+                                                        font-size: 36px;
+                                                        line-height: 42px;
+                                                        text-align: center;
+                                                        letter-spacing: 0.03em;
+                                                    
+                                                        color: #212121;}
+                                                        .list1 {position: absolute;
+                                                            width: 370px;
+                                                            height: 294px;
+                                                            left: 215px;
+                                                            top: 1061px;
+                                                        
+                                                            background: url(close-up-image-programer-working-his-desk-office_1098-18707.jpg);
+                                                            mix-blend-mode: normal;}
+                                                            .list2 {position: absolute;
+                                                                width: 370px;
+                                                                height: 294px;
+                                                                left: 615px;
+                                                                top: 1061px;
+                                                            
+                                                                background: url(web-ui-designers-are-developing-application-smartphones-team-creators-is-working-interface-mobile-phones_8119-2713.jpg);}
+                                                            .list3 {position: absolute;
+                                                                width: 370px;
+                                                                height: 294px;
+                                                                left: 1015px;
+                                                                top: 1061px;
+                                                            
+                                                                background: url(creative-artist-web-design-with-working-colour-selection-graphic-tablet_35674-1119.jpg);}
+                                                                .about2 {position: absolute;
+                                                                    width: 264px;
+                                                                    height: 42px;
+                                                                    left: 668px;
+                                                                    top: 1543px;
+                                                                
+                                                                    font-family: 'Roboto';
+                                                                    font-style: normal;
+                                                                    font-weight: 700;
+                                                                    font-size: 36px;
+                                                                    line-height: 42px;
+                                                                    text-align: center;
+                                                                    letter-spacing: 0.03em;
+                                                                
+                                                                    color: #212121;}
+                                                                    .img-list1 {position: absolute;
+                                                                        width: 270px;
+                                                                        height: 260px;
+                                                                        left: 215px;
+                                                                        top: 1635px;
+                                                                    
+                                                                        background: url(4853.jpg);
+                                                                        border-radius: 0px;}
+                                                                        
+                                                                          
+                                                                                .img-list2 {position: absolute;
+                                                                                    width: 270px;
+                                                                                    height: 260px;
+                                                                                    left: 515px;
+                                                                                    top: 1635px;
+                                                                                
+                                                                                    background: url(5844.jpg);
+                                                                                    border-radius: 0px;}
+                                                                               .img-list3 {position: absolute;
+                                                                                width: 270px;
+                                                                                height: 260px;
+                                                                                left: 815px;
+                                                                                top: 1635px;
+                                                                            
+                                                                                background: url(16166.jpg);
+                                                                                border-radius: 0px;}
+                                                         .img-list4 {position: absolute;
+                                                            width: 270px;
+                                                            height: 260px;
+                                                            left: 1115px;
+                                                            top: 1635px;
+                                                        
+                                                            background: url(2968.jpg);
+                                                            border-radius: 0px;}
+                                                            .webStudio0 {position: absolute;
+                                                                width: 145px;
+                                                                height: 31px;
+                                                                left: 215px;
+                                                                top: 2157px;
+                                                            
+                                                                font-family: 'Raleway';
+                                                                font-style: normal;
+                                                                font-weight: 700;
+                                                                font-size: 26px;
+                                                                line-height: 31px;
+                                                                /* identical to box height */
+                                                            
+                                                                letter-spacing: 0.03em;
+                                                            
+                                                                color: #2196F3;}
+                                                                .street {position: absolute;
+                                                                    width: 231px;
+                                                                    height: 21px;
+                                                                    left: 215px;
+                                                                    top: 2208px;
+                                                                
+                                                                    font-family: 'Roboto';
+                                                                    font-style: normal;
+                                                                    font-weight: 400;
+                                                                    font-size: 14px;
+                                                                    line-height: 24px;
+                                                                    /* or 171% */
+                                                                
+                                                                    letter-spacing: 0.03em;
+                                                                
+                                                                    color: #FFFFFF;}
+                                                                    .mail00 {position: absolute;
+                                                                        width: 231px;
+                                                                        height: 21px;
+                                                                        left: 215px;
+                                                                        top: 2238px;
+                                                                    
+                                                                        font-family: 'Roboto';
+                                                                        font-style: normal;
+                                                                        font-weight: 400;
+                                                                        font-size: 14px;
+                                                                        line-height: 24px;
+                                                                        /* or 171% */
+                                                                    
+                                                                        letter-spacing: 0.03em;
+                                                                    
+                                                                        color: rgba(255, 255, 255, 0.6);}
+                                                                        .telf {position: absolute;
+                                                                            width: 231px;
+                                                                            height: 21px;
+                                                                            left: 215px;
+                                                                            top: 2268px;
+                                                                        
+                                                                            font-family: 'Roboto';
+                                                                            font-style: normal;
+                                                                            font-weight: 400;
+                                                                            font-size: 14px;
+                                                                            line-height: 24px;
+                                                                            /* or 171% */
+                                                                        
+                                                                            letter-spacing: 0.03em;
+                                                                        
+                                                                            color: rgba(255, 255, 255, 0.6);}
+
+
+
+
+
+
+
+
+
+
